@@ -7,9 +7,9 @@ spring:
       #   数据源基本配置
       driver-class-name: com.mysql.cj.jdbc.Driver
       type: com.alibaba.druid.pool.DruidDataSource
-      url: jdbc:mysql://42.193.246.14:2033/db2?useUnicode=true&useSSL=false&characterEncoding=utf8&serverTimezone=GMT%2B8
+      url: jdbc:mysql://127.0.0.1:2033/db2?useUnicode=true&useSSL=false&characterEncoding=utf8&serverTimezone=GMT%2B8
       username: jcladmin
-      password: UW6IhOzY9qu@
+      password: 123456
       # 初始连接数
       initialSize: 5
       # 最小连接池数量
